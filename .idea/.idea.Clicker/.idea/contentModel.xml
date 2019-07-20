@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity\Projekty\Clicker" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CoroutineRunner.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="CoroutineRunner" t="Include">
+            <e p="ICoroutineRunner.cs" t="Include" />
+          </e>
+          <e p="GameManager.cs" t="Include" />
+          <e p="Input" t="Include">
+            <e p="IInputWrapper.cs" t="Include" />
+            <e p="InputWrapperDragLeftRight.cs" t="Include" />
+          </e>
+          <e p="PointsManager.cs" t="Include" />
+          <e p="SceneInitializer.cs" t="Include" />
+          <e p="UIManager.cs" t="Include" />
+          <e p="UpgradesManagment" t="Include">
+            <e p="MineManager.cs" t="Include" />
+            <e p="Mines" t="Include">
+              <e p="IMine.cs" t="Include" />
+              <e p="Lvl1Mine.cs" t="Include" />
+              <e p="Lvl2Mine.cs" t="Include" />
+              <e p="Lvl3Mine.cs" t="Include" />
+              <e p="Lvl4Mine.cs" t="Include" />
+              <e p="Lvl5Mine.cs" t="Include" />
+              <e p="Lvl6Mine.cs" t="Include" />
+              <e p="Lvl7Mine.cs" t="Include" />
+              <e p="Mine.cs" t="Include" />
+            </e>
+            <e p="UpgradesMenu.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Clicker.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\kubag\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kubag\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Clicker.2108409882.00" t="ExcludeRecursive" />
+  </component>
+</project>
